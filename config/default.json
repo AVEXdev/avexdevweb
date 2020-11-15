@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://avex123:avex123@avexdevweb.ug1yu.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
